@@ -218,7 +218,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://api.aqcoder.cn/today") top center;
+  background: url("https://api.bimg.cc.cn/today") top center;
   background-size: cover;
 }
 
